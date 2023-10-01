@@ -1,0 +1,17 @@
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\bin\Debug\net7.0-windows\WinFormAge.exe
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\bin\Debug\net7.0-windows\WinFormAge.deps.json
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\bin\Debug\net7.0-windows\WinFormAge.runtimeconfig.json
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\bin\Debug\net7.0-windows\WinFormAge.dll
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\bin\Debug\net7.0-windows\WinFormAge.pdb
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\obj\Debug\net7.0-windows\WinFormAge.csproj.AssemblyReference.cache
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\obj\Debug\net7.0-windows\WinFormAge.Form1.resources
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\obj\Debug\net7.0-windows\WinFormAge.csproj.GenerateResource.cache
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\obj\Debug\net7.0-windows\WinFormAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\obj\Debug\net7.0-windows\WinFormAge.AssemblyInfoInputs.cache
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\obj\Debug\net7.0-windows\WinFormAge.AssemblyInfo.cs
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\obj\Debug\net7.0-windows\WinFormAge.csproj.CoreCompileInputs.cache
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\obj\Debug\net7.0-windows\WinFormAge.dll
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\obj\Debug\net7.0-windows\refint\WinFormAge.dll
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\obj\Debug\net7.0-windows\WinFormAge.pdb
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\obj\Debug\net7.0-windows\WinFormAge.genruntimeconfig.cache
+D:\kenan\Cshar_age\WinFormAge\WinFormAge\obj\Debug\net7.0-windows\ref\WinFormAge.dll
